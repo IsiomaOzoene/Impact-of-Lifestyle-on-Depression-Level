@@ -10,9 +10,12 @@ Socio-Demographics
 
 Lifestyle and Health
 5.	Sleep Patterns: Sleep quality is crucial for overall health, and the survey findings indicate that a large number of participants report having "fair" sleep patterns, followed by a significant portion indicating "poor" sleep. A smaller group report "good" sleep quality. Sleep deprivation or poor sleep quality can negatively affect cognitive functions, mood, and mental health, and is strongly linked to depression. Improving sleep quality could be a key area for intervention in addressing mental health concerns.
+
 6.	Physical Activity Level: Physical activity is well-documented as a critical factor in reducing the risk of depression. The survey results show that 42.74% of participants lead a sedentary lifestyle, while 38.19% engage in moderate physical activity. The relatively high percentage of sedentary individuals suggests that a considerable portion of the population may be at risk for physical and mental health problems, including depression, due to insufficient exercise.
 7.	Alcohol Consumption: Alcohol consumption is often linked to both physical and mental health issues, including addiction and exacerbation of depressive symptoms. The survey shows that most participants consume alcohol in moderate quantities. While moderate alcohol consumption may not directly contribute to depression, it can still have negative effects on overall well-being and should be monitored.
+   
 8.	Dietary Habits: Unhealthy dietary habits are a significant concern, with 171,000 participants reporting poor eating habits. Diet plays a vital role in both physical and mental health, and unhealthy eating can contribute to obesity, chronic illness, and depression. However, the survey also indicates that 170,000 participants make an effort to improve their dietary habits, and 73,000 participants maintain healthy diets. These findings suggest that many people are striving to improve their lifestyle, which could positively impact their long-term health outcomes.
+   
 9.	Smoking Status: Smoking remains a major public health issue, as it is strongly linked to a wide range of chronic diseases and mental health disorders, including depression. The survey reveals that 247,000 participants are non-smokers, while 116,000 are former smokers. This indicates a positive trend towards reducing smoking habits, which is encouraging given the health risks associated with tobacco use.
 
 Key Observations:
