@@ -19,6 +19,7 @@ Lifestyle and Health
 9.	Smoking Status: Smoking remains a major public health issue, as it is strongly linked to a wide range of chronic diseases and mental health disorders, including depression. The survey reveals that 247,000 participants are non-smokers, while 116,000 are former smokers. This indicates a positive trend towards reducing smoking habits, which is encouraging given the health risks associated with tobacco use.
 
 Key Observations:
+
 Age and Income Correlation: Participants between the ages of 31-45 show higher income levels, which could be attributed to peak career years. However, those over 61 experience lower income, which is expected due to retirement. A diverse range of income levels across age groups indicates a need for targeted financial support or programs, particularly for older adults.
 
 Health and Lifestyle Risks: The high number of sedentary individuals, poor sleep patterns, and unhealthy dietary habits highlights areas where public health interventions could be most beneficial. Encouraging physical activity, improving sleep hygiene, and promoting healthier eating habits could mitigate mental and physical health risks.
